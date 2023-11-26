@@ -1,6 +1,7 @@
 # MC-Server-Notifier
 Minecraft Server Availability Notifier by TheCreeperZenior
 
+This node server uses Discord WebHook to work.
 
 ## Table of contents (TOC)
 
